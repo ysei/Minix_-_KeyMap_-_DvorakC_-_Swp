@@ -1,0 +1,8 @@
+total 64
+drwxr-xr-x  7 root   wheel    512 May  5 15:20:49 2014 .git
+-rw-r--r--  1 root   wheel      0 May  5 15:21:11 2014 __ls.txt
+-rw-r--r--  1 baron  users  15832 Jan 14 04:59:54 1998 keyboard.c
+-rw-r--r--  1 baron  users  15513 Jan 14 02:42:46 1998 keyboard.c.ori
+-rw-r--r--  1 baron  users   3069 Jan 13 10:59:12 1998 keymap.h
+-rw-r--r--  1 baron  users   3131 Jan 13 10:59:06 1998 keymap.h.crlf
+-rw-r--r--  1 baron  users   3069 Jan 14 02:25:58 1998 keymap.h.orig
